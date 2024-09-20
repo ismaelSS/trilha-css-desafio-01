@@ -1,0 +1,15 @@
+:root{
+  --primary: #33A8DB;
+  --secondary: #1472B7;
+
+
+  --text-primary: #fff;
+
+  --bg: #000;
+  --bg-secondary:#252525;
+  --bg-tertiary:rgba(20, 136, 183,0.2);
+
+  --border:rgba(20, 136, 183,0.9);
+  --border-secondary:#3d9fe6;
+
+}
